@@ -1,0 +1,15 @@
+{
+  "name": "kn-table-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "LazyKnightX",
+  "license": "MIT",
+  "repository": "github:LazyKnightX/kn-table-parser",
+  "dependencies": {
+    "xlsx": "^0.16.9"
+  }
+}
