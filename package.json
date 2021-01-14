@@ -1,5 +1,5 @@
 {
-  "name": "kn-table-parser",
+  "name": "kn-layout-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "author": "LazyKnightX",
   "license": "MIT",
-  "repository": "github:LazyKnightX/kn-table-parser",
+  "repository": "github:LazyKnightX/kn-layout-generator",
   "dependencies": {
     "xlsx": "^0.16.9"
   }
